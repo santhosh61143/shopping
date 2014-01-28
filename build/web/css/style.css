@@ -1,0 +1,39 @@
+html
+{
+margin:0; 
+padding:0; 
+font-size:100%;
+}
+body{background:grey; width:960px;margin:0 auto;padding:0;font-family:'Times New Roman,Sans-Serif';font-size:16px;clear:both;}
+a{text-decoration:none;}
+ul li{list-style-type:none;}
+.clear{clear:both;}
+.logo_head{border-bottom:1px solid white;}
+.logo{padding:5px;float:left;clear:left;}
+.search{float:left;margin:40px 0 0 200px;border:1px solid red;}
+.search input[type='text']{padding:5px; background-color:#ccc; border-radius:30px; outline:none;}
+.menu{float:right;}
+.menu ul li {float:left;width:100px; border:1px  solid white;text-align:center;padding:5px;background:#E8E6F0}
+
+.menu ul li a:hover{text-decoration:none;background:blue;}
+.content_images{margin-top:30px;}
+.content_images img{padding:5px;}
+.img1{ width:215px;float:left;padding:3px;}
+.img2{ width:215px;float:left;padding:3px;margin-left:25px;}
+.img3{ width:215px;float:left;padding:3px;margin-left:25px;}
+.img4{ width:215px;float:right;padding:3px;margin-left:15px;}
+.check1 input{margin-left:120px;}
+p{text-align:center;color:white;}
+.shoe{float:left;margin-left:240px;margin-top:100px;}
+.content_images input[type="button"]{margin-left:480px;margin-top:40px;}
+footer{margin-top:10px;background-color:white;padding:10px}
+.footers{margin-left:240px}
+.contact {margin-top:80px;} p{color:red;}
+.login{margin-top:60px;}
+.register{color:white;}
+.reg{margin-top:150px;}
+.content_images input[type='submit']{margin-left:480px;margin-top:20px;}
+.basket{margin-top:30px;}
+.basket input[type="button"]{float:right;}
+.basket span{ margin-left:100px;}
+.basket img{width:200px;}

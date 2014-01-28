@@ -1,0 +1,25 @@
+html{margin:0; padding:0; font-size:100%;}
+body{background:grey; width:960px;margin:0 auto;padding:0;font-family:'Times New Roman,Sans-Serif';font-size:16px;clear:both;}
+a{text-decoration:none;}
+ul li{list-style-type:none;}
+p{text-align:center;color:white;}
+.clear{clear:both;}
+.logo_head{border-bottom:1px solid white;}
+.logo{padding:5px;float:left;clear:left;}
+.search{float:left;margin:40px 0 0 200px;}
+.search input[type='text']{padding:5px; background-color:#ccc; border-radius:30px; outline:none;}
+.menu{float:right;}
+.menu ul li {float:left;width:100px; border:1px  solid white;text-align:center;padding:5px;background:#E8E6F0}
+
+.menu ul li a:hover{background:green;text-decoration:underline;}
+.content_images{margin-top:30px;border-bottom:3px solid white;}
+.content_images img{padding:5px;}
+.img1{ width:215px;float:left;padding:3px;}
+.img2{ width:215px;float:left;padding:3px;margin-left:25px;}
+.img3{ width:215px;float:left;padding:3px;margin-left:25px;}
+.img4{ width:215px;float:right;padding:3px;margin-left:15px;}
+
+.check1 input{text-align:center;margin-left:109px;}
+.content_images input[type='submit']{margin-left:480px;margin-top:20px;}
+	
+footer{background-color:white;padding:10px;}
